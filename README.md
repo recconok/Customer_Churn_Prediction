@@ -1,0 +1,1 @@
+With the help of these web app company can predict how many customers are likely to leave their services or subscriptions. This web app made with the help of streamlit  and used of various machine learning algorithms helps in retention of customer.
